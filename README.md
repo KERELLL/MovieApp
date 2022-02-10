@@ -1,4 +1,11 @@
 # MovieApp
+
+*Retrofit2 - работа с themoviedb.org api
+*Navigation Component
+*MVVM паттерн
+*Coroutines
+*Glide
+
 ![image](https://user-images.githubusercontent.com/36132918/153482986-90e778f5-1e3c-4dd9-9c06-e3add62c5ac8.png)
 ![image](https://user-images.githubusercontent.com/36132918/153483029-c613e4fc-d738-4f1c-b0d1-30f0eb5f225a.png)
 ![image](https://user-images.githubusercontent.com/36132918/153483296-4fad3a26-27a1-4bfb-b8a8-441df6affa2e.png)
