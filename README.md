@@ -1,13 +1,9 @@
 # MovieApp
 
 * Retrofit2 - работа с themoviedb.org api
-
 * Navigation Component
-
 * MVVM паттерн
-
 * Coroutines
-
 * Glide
 
 ![image](https://user-images.githubusercontent.com/36132918/153482986-90e778f5-1e3c-4dd9-9c06-e3add62c5ac8.png)
